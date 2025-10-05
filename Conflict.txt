@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Remote Repo
+=======
+Local Repo
+>>>>>>> 4621ca5 (Local Repo conflict)
